@@ -1,5 +1,5 @@
 # MPL
-Mobile premier leage Spring boot Code
+Mobile premier league Spring boot Code
 
 Please run below commands to run the project. 
 I am assuming you will have maven and java 1.8 version install in you local system. If maven is not install please visit the below link:
